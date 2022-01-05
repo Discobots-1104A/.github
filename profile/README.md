@@ -1,1 +1,1 @@
-![banner](resources\banner.png)
+![banner](resources/banner.png)
